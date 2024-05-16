@@ -1,0 +1,6 @@
+1) WAP to show difference between Structure and Union.
+-> The struct keyword is used to define a structure and the union keyword is used to define union.
+-> Structure is used to store different data types values and union is used for storing one at a time from different data type values.
+-> The structure allows initializing multiple variable members at once and union allows initializing only one variable member at once.
+-> In structure each variable member will be assessed at a time and in union only one variable member will be assessed at a time.
+-> Total size of structure is 28 bytes and the total size of union is 20 bytes.
